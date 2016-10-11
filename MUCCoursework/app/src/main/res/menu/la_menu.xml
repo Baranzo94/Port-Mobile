@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id ="@+id/lunchMap"
+        android:icon="@drawable/ic_menu_action_about"
+        android:title="lunchMap"
+        android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/About"
+        android:icon="@drawable/ic_menu_action_about"
+        android:title="About" />
+
+    <item android:id="@+id/Draw"
+        android:icon="@drawable/ic_menu_action_about"
+        android:title="Draw"/>
+
+    <item android:id="@+id/Quit"
+        android:title="Quit"
+        android:icon="@drawable/ic_menu_action_quit"
+        android:showAsAction="ifRoom" />
+
+
+</menu>
